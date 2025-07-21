@@ -6,6 +6,22 @@
 }
 
 /* ضبط الفيديو ليغطي الشاشة */
+.navtop .container{
+width: 95%;
+height: 10vh;
+margin: auto;
+display: flex;
+justify-content: space-between;
+}
+.navtop .container .icons{
+width: 300px;
+height: 10vh;
+}
+.icons a img{
+width:30px ;
+height: 30px;
+margin: 10px;
+}
 .bg-video {
     position: absolute;
     top: 50%;
