@@ -1,3 +1,9 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
 .hero-section {
     position: relative;
     width: 100%;
@@ -55,11 +61,23 @@ margin: 10px;
     z-index: 2;
 }
 
-/* اللوجو */
-.logo {
-    width: 100px;
-    margin-bottom: 20px;
+ .logo{
+width: 500px;
+height: 300px;
+position: absolute;
+margin-left: 500px;
+margin-top: 300px;
 }
+ .logo .photo{
+width: 500px;
+height: 100px;
+}
+ .logo .photo img{
+width: auto;
+height: auto;
+margin-left: 200px;
+}
+
 
 /* النص */
 .content p {
