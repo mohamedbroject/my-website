@@ -6,7 +6,7 @@
 }
 
 /* ضبط الفيديو ليغطي الشاشة */
-.navtop .container{
+.hero-section .navtop .container{
 width: 95%;
 height: 10vh;
 margin: auto;
